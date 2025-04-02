@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: o85h619vb-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/o85h619vb-go
